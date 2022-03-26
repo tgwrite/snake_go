@@ -1,0 +1,16 @@
+<menu>
+    <Item serialNumber=1 name="开始游戏">
+		<Item serialNumber="101" name="普通模式地图"></Item>
+		<Item serialNumber="102" name="使用自定义地图"></Item>
+	</Item>
+    <Item serialNumber=2 name="读取存档"></Item>
+    <Item serialNumber=3 name="游戏设置">
+        <Item serialNumber=301 name="设置地图(鼠标点击放置方块设置障碍物 按ESC键保存并退出)"></Item>
+		<Item serialNumber=305 name="游戏难度设置">
+			<Item serialNumber="30501" name="简单模式"></Item>
+			<Item serialNumber="30502" name="困难模式(游戏中的方向按键反向设置)"></Item>
+        </Item>
+    </Item>
+    <Item serialNumber=4 name="分数排行"></Item>
+    <Item serialNumber=0 name="退出游戏"></Item>
+</menu>a
